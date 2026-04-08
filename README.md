@@ -163,19 +163,16 @@ else       → HOLD
 }
 ```
 
----
-
-## 📅 Milestones (per project spec)
-
-| Milestone | Status | Description |
-|-----------|--------|-------------|
-| Week 1–2 | ✅ | Data APIs (yfinance), feature engineering |
-| Week 3–4 | ✅ | ML signal engine, ensemble models |
-| Week 5–6 | ✅ | Backtesting (Sharpe, drawdown, win rate), alerts |
-| Week 7–8 | ✅ | React dashboard, full deployment |
 
 ---
 
 ## ⚠️ Disclaimer
 
 This platform is for **educational and research purposes only**. It does not constitute financial advice. Past performance does not guarantee future results. Always consult a qualified financial advisor before making investment decisions.
+
+
+Website link:- yourstockai.vercel.app
+use credentials:Email:royal.781608@gmail.com
+                password:Royal@123
+
+The email service does not work and the functionality of website is slow it may show error sometimes due to backend is deployed in render free tier.You can run it locally it is fine.
