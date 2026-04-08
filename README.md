@@ -181,7 +181,7 @@ else       → HOLD
 
 ### 🔐 Test Credentials
 - **Email:** royal.781608@gmail.com  
-- **Password:** Royal@123  
+- **Password:** R12345
 
 ---
 
