@@ -168,11 +168,27 @@ else       → HOLD
 
 ## ⚠️ Disclaimer
 
-This platform is for **educational and research purposes only**. It does not constitute financial advice. Past performance does not guarantee future results. Always consult a qualified financial advisor before making investment decisions.
+> This platform is for **educational and research purposes only**.  
+> It does **not constitute financial advice**.  
+> Past performance does **not guarantee future results**.  
+> Always consult a qualified financial advisor before making investment decisions.
 
+---
 
-Website link:- yourstockai.vercel.app
-#use credentials: Email:royal.781608@gmail.com
-                 password:Royal@123
+## 🌐 Live Demo
 
-The email service does not work and the functionality of website is slow it may show error sometimes due to backend is deployed in render free tier.You can run it locally it is fine.
+🔗 **Website:** https://yourstockai.vercel.app  
+
+### 🔐 Test Credentials
+- **Email:** royal.781608@gmail.com  
+- **Password:** Royal@123  
+
+---
+
+## ⚡ Notes
+
+- ⚠️ Email service may not work properly  
+- 🐢 Website may be slow (backend hosted on free tier – Render)  
+- 💻 For best performance, run the project **locally**
+
+---
