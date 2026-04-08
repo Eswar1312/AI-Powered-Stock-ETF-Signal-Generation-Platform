@@ -172,7 +172,7 @@ This platform is for **educational and research purposes only**. It does not con
 
 
 Website link:- yourstockai.vercel.app
-use credentials:Email:royal.781608@gmail.com
-                password:Royal@123
+#use credentials: Email:royal.781608@gmail.com
+                 password:Royal@123
 
 The email service does not work and the functionality of website is slow it may show error sometimes due to backend is deployed in render free tier.You can run it locally it is fine.
