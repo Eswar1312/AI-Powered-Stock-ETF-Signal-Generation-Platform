@@ -139,30 +139,6 @@ else       → HOLD
 | DELETE | `/api/portfolio/:id` | Remove holding |
 | GET | `/api/health` | Health check |
 
-### Signal Response
-```json
-{
-  "ticker": "RELIANCE.NS",
-  "signal": "BUY",
-  "confidence": 80,
-  "score": 4,
-  "current_price": 2850.5,
-  "predicted_price_1d": 2873.2,
-  "predicted_price_5d": 2920.1,
-  "pct_change_1d": 0.80,
-  "pct_change_5d": 2.44,
-  "indicators": { "rsi": 42.3, "macd": 12.4, ... },
-  "forecast": { "dates": [...], "prices": [...] },
-  "history": { "dates": [...], "prices": [...], "rsi": [...], ... },
-  "backtest": {
-    "total_return": 134.5,
-    "sharpe_ratio": 1.23,
-    "max_drawdown": -18.4,
-    "win_rate": 56.2,
-    "equity_curve": [...]
-  }
-}
-```
 
 
 ---
