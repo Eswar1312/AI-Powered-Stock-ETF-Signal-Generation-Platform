@@ -3,23 +3,7 @@
 A full-stack MERN application with a Python ML engine that generates **BUY / HOLD / SELL** signals for stocks and ETFs using an ensemble of Random Forest + Gradient Boosting models.
 
 ---
-## 🌐 Live Demo
 
-🔗 **Website:** https://yourstockai.vercel.app  
-
-### 🔐 Test Credentials
-- **Email:** royal.781608@gmail.com  
-- **Password:** R12345
-
----
-
-## ⚡ Notes
-
-- ⚠️ Email service may not work properly  
-- 🐢 Website may be slow (backend hosted on free tier – Render)  
-- 💻 For best performance, run the project **locally**
-
----
 
 ## 🏗 Architecture
 
